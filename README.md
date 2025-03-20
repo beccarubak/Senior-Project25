@@ -1,3 +1,9 @@
+# About
+This is application is an employee portal where employees can see information about the company, teams within the company, and upcoming events. It features a home page that contains announcements, events, and job openings. There is also a page showing the teams and employees on each team as well as a profile page where they can see their individual information. There is also a company page that shows information about the company itself.
+
+The Frontend is using Angular and the backend is hosted on AWS using AWS dynamoDB, AWS Lambda, AWS S3, and API Gateway.
+
+
 Contents
    # Setting Up a Serverless Angular Project
    # Branch Management Guidelines
